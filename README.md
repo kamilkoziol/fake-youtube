@@ -1,2 +1,2 @@
 # fake-youtube
-CSS exercise to mimic YT layout
+CSS Excercise to mimic 2022 youtube layout
